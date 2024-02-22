@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishnakunwar12345](https://github.com/krishnakunwar12345)
 
-- 💬 Ask me about **Html,CSS,JS,React**
+- 💬 Ask me about **Html,CSS,JS,React,Python**
 
 - 📫 How to reach me **krishnakunwar0505@gmail.com**
 
